@@ -2,11 +2,11 @@
 Soy diseñadora UX/UI, centrada en el usuario y la accesibilidad, y en transición al desarrollo front-end con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
 
 <h2>🔹 Metodologías que uso:</h2>
-<li>
+
   <ul>✅ Fusión de diseño y desarrollo para construir interfaces impactantes y usables.</ul>
   <ul>✅ Enfoque en accesibilidad y usabilidad, garantizando experiencias inclusivas.</ul>
   <ul>✅ Mentalidad de aprendizaje continuo, adaptándome a las nuevas tendencias.</ul>
-</li>
+
 
 
 

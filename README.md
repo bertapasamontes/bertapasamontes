@@ -2,9 +2,14 @@
 Soy diseñadora UX/UI, centrada en el usuario y la accesibilidad, y en transición al desarrollo front-end con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
 
 <h2>🔹 Metodologías que uso:</h2>
-✅ Fusión de diseño y desarrollo para construir interfaces impactantes y usables.
-✅ Enfoque en accesibilidad y usabilidad, garantizando experiencias inclusivas.
-✅ Mentalidad de aprendizaje continuo, adaptándome a las nuevas tendencias.
+<li>
+  <ul>✅ Fusión de diseño y desarrollo para construir interfaces impactantes y usables.</ul>
+  <ul>✅ Enfoque en accesibilidad y usabilidad, garantizando experiencias inclusivas.</ul>
+  <ul>✅ Mentalidad de aprendizaje continuo, adaptándome a las nuevas tendencias.</ul>
+</li>
+
+
+
 
 <h2>🛠 Tech Stack</h2>
 ✔ UX/UI: Figma, Adobe XD, Design Systems

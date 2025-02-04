@@ -1,7 +1,7 @@
 <h1>🚀 UX/UI Designer | Front-End Developer in Progress (Angular)</h1>
 Soy diseñadora UX/UI centrada en el usuario y la accesibilidad y en transición al desarrollo Front-End con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
 
-<h2>🔹 Metodologías que uso:</h2>
+<h2>🔹 Metodologías que uso</h2>
 
   <ul>✅ Fusión de diseño y desarrollo para construir interfaces impactantes y usables.</ul>
   <ul>✅ Enfoque en accesibilidad y usabilidad, garantizando experiencias inclusivas.</ul>
@@ -12,7 +12,7 @@ Soy diseñadora UX/UI centrada en el usuario y la accesibilidad y en transición
 <ul>✔ <b>Front-End</b>: HTML, SASS, TypeScript, Angular</ul>
 <ul>✔ <b>Versionado</b>: Git, GitHub</ul>
 <ul>✔ <b>Metodologías</b>: Agile, Design Thinking</ul><br />
-📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!<br />
+📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!<br/>
 Chequea mis repositorios para saber más 😉 o [mi LinkedIn](https://www.linkedin.com/in/berta-pasamontes/)👀
 <!--
 **bertapasamontes/bertapasamontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

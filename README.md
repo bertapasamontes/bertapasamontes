@@ -11,7 +11,7 @@ Soy diseñadora UX/UI, centrada en el usuario y la accesibilidad, y en transici�
 ✔ Front-End: HTML, SASS, TypeScript, Angular
 ✔ Versionado: Git, GitHub
 ✔ Metodologías: Agile, Design Thinking
-
+<hr>
 📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!
 
 <!--

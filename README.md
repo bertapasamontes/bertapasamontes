@@ -15,7 +15,7 @@ Soy diseñadora UX/UI centrada en el usuario y la accesibilidad y en transición
 <br />
 📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!
 <br />
-Chequea mis repositorios para saber más 😉 o <a href="https://www.linkedin.com/in/berta-pasamontes/" alt="mi linkedin">mi linkedIn 👀</a>
+Chequea mis repositorios para saber más 😉 o [mi LinkedIn](https://www.linkedin.com/in/berta-pasamontes/)👀
 <!--
 **bertapasamontes/bertapasamontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

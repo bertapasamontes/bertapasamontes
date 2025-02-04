@@ -1,14 +1,14 @@
-**🚀 UX/UI Designer | Front-End Developer in Progress (Angular)**
-Soy diseñadora UX/UI con un enfoque centrado en el usuario y la accesibilidad, en transición al desarrollo front-end con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
+<h1>🚀 UX/UI Designer | Front-End Developer in Progress (Angular)</h1>
+Soy diseñadora UX/UI, centrada en el usuario y la accesibilidad, y en transición al desarrollo front-end con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
 
-🔹 ¿Qué me diferencia?
+<h2>🔹 Metodologías que uso:</h2>
 ✅ Fusión de diseño y desarrollo para construir interfaces impactantes y usables.
 ✅ Enfoque en accesibilidad y usabilidad, garantizando experiencias inclusivas.
 ✅ Mentalidad de aprendizaje continuo, adaptándome a las nuevas tendencias.
 
-🛠 Tech Stack
+<h2>🛠 Tech Stack</h2>
 ✔ UX/UI: Figma, Adobe XD, Design Systems
-✔ Front-End: HTML, CSS, JavaScript, Angular (aprendiendo)
+✔ Front-End: HTML, SASS, TypeScript, Angular
 ✔ Versionado: Git, GitHub
 ✔ Metodologías: Agile, Design Thinking
 

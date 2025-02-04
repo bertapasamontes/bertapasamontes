@@ -12,10 +12,10 @@ Soy diseñadora UX/UI, centrada en el usuario y la accesibilidad, y en transici�
 
 
 <h2>🛠 Tech Stack</h2>
-✔ UX/UI: Figma, Adobe XD, Design Systems
-✔ Front-End: HTML, SASS, TypeScript, Angular
-✔ Versionado: Git, GitHub
-✔ Metodologías: Agile, Design Thinking
+<ul>✔ <b>UX/UI</b>: Figma, Adobe XD, Design Systems</ul>
+<ul>✔ <b>Front-End</b>: HTML, SASS, TypeScript, Angular</ul>
+<ul>✔ <b>Versionado</b>: Git, GitHub</ul>
+<ul>✔ <b>Metodologías</b>: Agile, Design Thinking</ul>
 <hr>
 📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!
 

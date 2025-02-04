@@ -11,8 +11,7 @@ Soy diseñadora UX/UI centrada en el usuario y la accesibilidad y en transición
 <ul>✔ <b>UX/UI</b>: Figma, Adobe XD, Design Systems</ul>
 <ul>✔ <b>Front-End</b>: HTML, SASS, TypeScript, Angular</ul>
 <ul>✔ <b>Versionado</b>: Git, GitHub</ul>
-<ul>✔ <b>Metodologías</b>: Agile, Design Thinking</ul>
-<br />
+<ul>✔ <b>Metodologías</b>: Agile, Design Thinking</ul><br />
 📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!
 <br />
 Chequea mis repositorios para saber más 😉 o [mi LinkedIn](https://www.linkedin.com/in/berta-pasamontes/)👀

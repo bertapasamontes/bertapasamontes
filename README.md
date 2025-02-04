@@ -1,4 +1,4 @@
-🚀 UX/UI Designer | Front-End Developer in Progress (Angular)
+**🚀 UX/UI Designer | Front-End Developer in Progress (Angular)**
 Soy diseñadora UX/UI con un enfoque centrado en el usuario y la accesibilidad, en transición al desarrollo front-end con Angular. Mi objetivo es crear productos digitales intuitivos, atractivos y funcionales que mejoren la experiencia del usuario.
 
 🔹 ¿Qué me diferencia?

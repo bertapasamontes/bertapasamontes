@@ -12,7 +12,7 @@ Soy diseñadora UX/UI centrada en el usuario y la accesibilidad y en transición
 <ul>✔ <b>Front-End</b>: HTML, SASS, TypeScript, Angular</ul>
 <ul>✔ <b>Versionado</b>: Git, GitHub</ul>
 <ul>✔ <b>Metodologías</b>: Agile, Design Thinking</ul><br />
-📩 Abierta a oportunidades en diseño de interfaces o desarrollo front-end. ¡Conectemos!<br/>
+📩 Abierta a oportunidades de diseño de interfaces o desarrollo front-end. ¡Conectemos!<br/>
 Chequea mis repositorios para saber más 😉 o <a href="https://www.linkedin.com/in/berta-pasamontes/" alt="mi linkedin">mi LinkedIn</a> 👀
 <!--
 **bertapasamontes/bertapasamontes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
